@@ -1,0 +1,86 @@
+
+case01:
+  切换到密码登陆:
+    element_info: com.ak.zanjiadoctor:id/tv_switch
+    operate_type: click
+    text:
+
+  输入账号:
+      element_info: com.ak.zanjiadoctor:id/et_tel
+      operate_type: input
+      text: 18533211011
+
+  输入密码:
+      element_info: com.ak.zanjiadoctor:id/et_verification
+      operate_type: input
+      text: 123456
+
+  点击登陆:
+    element_info: com.ak.zanjiadoctor:id/iv_confirm
+    operate_type: click
+    text:
+
+#  取消弹窗:
+#    element_info: com.ak.zanjiadoctor:id/btn_n
+#    operate_type: click
+#    text:
+#
+#  滑动页面:
+#    element_info: swip
+#    operate_type: swip
+#    text:
+
+  选择居民:
+    element_info: '居民'
+    operate_type: text
+    text:
+
+  具体居民:
+    element_info: '李子园'
+    operate_type: text
+    text:
+
+  去履约:
+    element_info: '去履约'
+    operate_type: text
+    text:
+
+  电话服务:
+      element_info: '电话服务'
+      operate_type: text
+      text:
+
+  拨打电话:
+      element_info: com.ak.zanjiadoctor:id/btn_p
+      operate_type: click
+      text:
+
+  返回履约页面01:
+    element_info: KEYCODE_BACK
+    operate_type: key
+    text:
+
+  返回履约页面02:
+    element_info: KEYCODE_BACK
+    operate_type: key
+    text:
+
+  选择健康体检:
+    element_info: ' 健康体检'
+    operate_type: text
+    text:
+
+  确定:
+    element_info: '确定'
+    operate_type: text
+    text:
+
+  体温:
+    element_info: poco(text='体温').parent().offspring(text="请输入")
+    operate_type: poco
+    text: 36.5
+
+  脉率:
+    element_info: poco(text='脉率').parent().offspring(text="请输入")
+    operate_type: poco
+    text: 36.5

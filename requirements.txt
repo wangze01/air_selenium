@@ -1,0 +1,7 @@
+airtest==1.1.8
+airtest-selenium==1.0.3
+Appium-Python-Client==1.1.0
+ddt==1.1.1
+pocoui==1.0.79
+PyYAML==5.4.1
+selenium==3.141.0
