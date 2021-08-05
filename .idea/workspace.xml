@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1vw7YF9NDPShdH0nZK6FhbXW26x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -147,6 +151,9 @@
       <workItem from="1627867578946" duration="2378000" />
       <workItem from="1627870207581" duration="5859000" />
       <workItem from="1627951293658" duration="3737000" />
+      <workItem from="1627976500362" duration="1380000" />
+      <workItem from="1628042596274" duration="3664000" />
+      <workItem from="1628124898065" duration="2083000" />
     </task>
     <servers />
   </component>
@@ -202,10 +209,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="342" key="GridCell.Tab.1.right/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1627612812591" />
-    <state x="461" y="167" key="SettingsEditor" timestamp="1627461720041">
+    <state x="461" y="167" key="SettingsEditor" timestamp="1628061975190">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="167" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1627461720041" />
+    <state x="461" y="167" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1628061975190" />
     <state x="511" y="261" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1627612633087">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -243,7 +250,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/air_selenium$yaml_handle.coverage" NAME="yaml_handle Coverage Results" MODIFIED="1627892878999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/air_selenium$yaml_handle.coverage" NAME="yaml_handle Coverage Results" MODIFIED="1628042690237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/air_selenium$tool.coverage" NAME="tool Coverage Results" MODIFIED="1627626917051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/air_selenium$airdemo.coverage" NAME="airdemo Coverage Results" MODIFIED="1627626873476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/air_selenium$case01.coverage" NAME="case01 Coverage Results" MODIFIED="1627869712171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />

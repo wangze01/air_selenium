@@ -39,7 +39,7 @@ class TestPage():
                 drivec.input((data[item]['element_info']), (data[item]['text']))
 
             elif data[item]['operate_type'] == 'swip' :
-                drivec.scroll_down(1)
+                drivec.scroll_down((data[item]['text']))
 
             elif  data[item]['operate_type'] == 'text':
                 drivec.text_wait(data[item]['element_info'])

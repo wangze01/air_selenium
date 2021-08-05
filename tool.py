@@ -58,7 +58,7 @@ class Driver:
         try:
             self.poco(text=key).click()
         except:
-            print('清除输入框内容失败')
+            print('text_chick，元素未识别')
 
     def offspring(self,key,text):
         try:
@@ -66,7 +66,7 @@ class Driver:
             keys.click()
             keys.set_text(text)
         except:
-            print('报错')
+            print('元素未识别，报错')
 
 
 

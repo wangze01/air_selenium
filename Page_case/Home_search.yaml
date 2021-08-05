@@ -25,10 +25,10 @@ case01:
 #    operate_type: click
 #    text:
 #
-#  滑动页面:
-#    element_info: swip
-#    operate_type: swip
-#    text:
+  滑动页面:
+    element_info: swip
+    operate_type: swip
+    text: 1
 
   选择居民:
     element_info: '居民'
